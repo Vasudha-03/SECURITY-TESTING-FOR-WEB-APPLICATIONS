@@ -220,3 +220,9 @@ Testing revealed that the application needs stronger input validation mechanisms
 Implementing validation techniques and security best practices will help in preventing attacks such as SQL Injection and XSS.
 
 This task provided practical experience in API testing and web application security analysis.
+
+# Output
+  <img width="997" height="585" alt="Image" src="https://github.com/user-attachments/assets/c4c6738c-d389-4fbb-b47e-2c2bf56f7ed2" />
+  <img width="985" height="518" alt="Image" src="https://github.com/user-attachments/assets/ea02aab7-2dad-421f-baae-5faa0ffff124" />
+  <img width="980" height="592" alt="Image" src="https://github.com/user-attachments/assets/2ea87133-d74c-4578-b40a-54665c34a0de" />
+  <img width="995" height="600" alt="Image" src="https://github.com/user-attachments/assets/f99442ae-ad0b-433f-a6d8-0c29fdde3903" />
